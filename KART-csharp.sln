@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{82754739-E2C6-7635-BD45-83941147FE12}") = "KART", "Assembly-CSharp-vs.csproj", "{85809B92-AE64-8756-2804-A722C4E0CBF7}"
+EndProject
+Project("{82754739-E2C6-7635-BD45-83941147FE12}") = "KART", "Assembly-CSharp-Editor-vs.csproj", "{F76A75A4-000C-CD32-A898-8197EA0FB6FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85809B92-AE64-8756-2804-A722C4E0CBF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85809B92-AE64-8756-2804-A722C4E0CBF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85809B92-AE64-8756-2804-A722C4E0CBF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85809B92-AE64-8756-2804-A722C4E0CBF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76A75A4-000C-CD32-A898-8197EA0FB6FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76A75A4-000C-CD32-A898-8197EA0FB6FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76A75A4-000C-CD32-A898-8197EA0FB6FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76A75A4-000C-CD32-A898-8197EA0FB6FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
